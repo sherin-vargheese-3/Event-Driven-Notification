@@ -1,10 +1,10 @@
-package com.exercise.NotificationSystem.service;
+package com.exercise.notificationsystem.service;
 
-import com.exercise.NotificationSystem.events.OrderPlacedEvent;
-import com.exercise.NotificationSystem.events.ProductOutOfStockEvent;
-import com.exercise.NotificationSystem.events.UserRegisteredEvent;
-import com.exercise.NotificationSystem.model.Notification;
-import com.exercise.NotificationSystem.repository.NotificationRepository;
+import com.exercise.notificationsystem.events.OrderPlacedEvent;
+import com.exercise.notificationsystem.events.ProductOutOfStockEvent;
+import com.exercise.notificationsystem.events.UserRegisteredEvent;
+import com.exercise.notificationsystem.model.Notification;
+import com.exercise.notificationsystem.repository.NotificationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.EventListener;
 import org.springframework.scheduling.annotation.Async;

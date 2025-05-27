@@ -1,7 +1,7 @@
-package com.exercise.NotificationSystem.service;
+package com.exercise.notificationsystem.service;
 
-import com.exercise.NotificationSystem.model.Notification;
-import com.exercise.NotificationSystem.repository.NotificationRepository;
+import com.exercise.notificationsystem.model.Notification;
+import com.exercise.notificationsystem.repository.NotificationRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

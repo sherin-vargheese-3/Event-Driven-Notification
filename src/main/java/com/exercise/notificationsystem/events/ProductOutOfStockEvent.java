@@ -1,4 +1,4 @@
-package com.exercise.NotificationSystem.events;
+package com.exercise.notificationsystem.events;
 
 import lombok.Getter;
 

@@ -1,4 +1,4 @@
-package com.exercise.NotificationSystem;
+package com.exercise.notificationsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.exercise.NotificationSystem;
+package com.exercise.notificationsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

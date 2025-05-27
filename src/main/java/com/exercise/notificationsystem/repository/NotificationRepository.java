@@ -1,6 +1,6 @@
-package com.exercise.NotificationSystem.repository;
+package com.exercise.notificationsystem.repository;
 
-import com.exercise.NotificationSystem.model.Notification;
+import com.exercise.notificationsystem.model.Notification;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

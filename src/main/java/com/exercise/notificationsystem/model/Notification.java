@@ -1,4 +1,4 @@
-package com.exercise.NotificationSystem.model;
+package com.exercise.notificationsystem.model;
 
 import jakarta.persistence.*;
 import lombok.*;

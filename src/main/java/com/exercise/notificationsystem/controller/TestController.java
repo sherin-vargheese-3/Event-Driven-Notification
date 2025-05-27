@@ -1,8 +1,8 @@
-package com.exercise.NotificationSystem.controller;
+package com.exercise.notificationsystem.controller;
 
-import com.exercise.NotificationSystem.events.OrderPlacedEvent;
-import com.exercise.NotificationSystem.events.ProductOutOfStockEvent;
-import com.exercise.NotificationSystem.events.UserRegisteredEvent;
+import com.exercise.notificationsystem.events.OrderPlacedEvent;
+import com.exercise.notificationsystem.events.ProductOutOfStockEvent;
+import com.exercise.notificationsystem.events.UserRegisteredEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.web.bind.annotation.PostMapping;

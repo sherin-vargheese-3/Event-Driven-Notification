@@ -1,7 +1,7 @@
-package com.exercise.NotificationSystem.controller;
+package com.exercise.notificationsystem.controller;
 
-import com.exercise.NotificationSystem.model.Notification;
-import com.exercise.NotificationSystem.service.NotificationService;
+import com.exercise.notificationsystem.model.Notification;
+import com.exercise.notificationsystem.service.NotificationService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

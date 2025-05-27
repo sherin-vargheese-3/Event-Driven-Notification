@@ -6,4 +6,4 @@ A simple notification system built using Spring's event mechanism to demonstrate
 
 ## Project structure
 
-*   **[com.exercise.NotificationSystem](src/main/java/com/exercise/NotificationSystem)**: The main application package.
+*   **[com.exercise.notificationsystem](src/main/java/com/exercise/notificationsystem)**: The main application package.
